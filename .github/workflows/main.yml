@@ -1,0 +1,4 @@
+git add .
+git commit -m "Initial open-source release: AI-ASTRA-PH sovereign interface"
+git branch -M main
+git push -u origin main
